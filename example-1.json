@@ -1,10 +1,10 @@
 [
   {
-    "name": "nick",
+    "name": "shawn",
     "species" : "man",
     "foods": {
       "likes": ["bacon", "burger"],
-      "dislikes": ["pizza", "burger"]
+      "dislikes": ["pizza", "cheese"]
     }
   },
   {
